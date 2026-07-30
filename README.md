@@ -1,203 +1,271 @@
 <div align="center">
 
-# 📦 Amazon.com, Inc. — A Strategic Business Analysis
+# 📦 Amazon Company Analysis
 
-### E-commerce, Cloud Infrastructure, and Artificial Intelligence at Global Scale
+### Strategic Business Analysis of Amazon.com, Inc.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-131A22.svg?style=flat-square)](./LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete-FF9900.svg?style=flat-square)](#)
-[![Slides](https://img.shields.io/badge/Slides-30-232F3E.svg?style=flat-square)](#-presentation-overview)
-[![Data Year](https://img.shields.io/badge/Data-FY2025%20%2F%20Q1%202026-146EB4.svg?style=flat-square)](#-references)
+[![Status](https://img.shields.io/badge/Status-Complete-FF9900.svg?style=flat-square)
+](#)
+[![Presentation](https://img.shields.io/badge/Presentation-PDF-232F3E.svg?style=flat-square)](./presentation/Amazon_Research_Presentation.pdf)
+[![Research](https://img.shields.io/badge/Research-Business%20Analysis-146EB4.svg?style=flat-square)](#references)
 
-*A university-level strategic business analysis covering Amazon's retail, cloud (AWS), advertising, AI, logistics, and sustainability strategy — with verified FY2025 financials and 2026 market data.*
+*A professional academic research project analyzing Amazon's business strategy, financial performance, cloud computing leadership, artificial intelligence initiatives, logistics network, sustainability efforts, and long-term competitive position.*
 
 </div>
 
 ---
 
-## 📖 Project Overview
+# 📖 Overview
 
-This repository is a portfolio-ready business research project analyzing **Amazon.com, Inc.** as a strategic case study. It expands a compact research draft into a full **30-slide strategic business analysis** covering the company's three reporting segments (North America, International, AWS), its emerging "third pillar" advertising business, its agentic-AI shopping strategy, its logistics and fulfillment network, and its sustainability performance — closing with an original SWOT analysis, risk assessment, and set of strategic recommendations.
+This repository presents a comprehensive strategic analysis of **Amazon.com, Inc.**, one of the world's largest technology and e-commerce companies.
 
-The presentation itself is the primary source of truth for this repository. Every supporting file here — the README, bibliography, and original diagrams — was built by analyzing the deck slide-by-slide (text, charts, and speaker notes) and cross-verifying every statistic against primary sources such as SEC filings, Amazon's own disclosures, and Synergy Research Group's cloud-market tracking.
+The project examines Amazon's evolution from an online bookstore into a global leader in e-commerce, cloud computing, artificial intelligence, digital advertising, logistics, and consumer technology. It combines financial analysis, business strategy, market research, and technology insights into a professionally designed presentation supported by reliable academic and industry sources.
 
-> **Note:** This project is coursework-style business analysis produced for educational and portfolio purposes. It is not affiliated with, endorsed by, or produced on behalf of Amazon.com, Inc.
+Developed for educational and portfolio purposes, this repository demonstrates business research, analytical thinking, technical documentation, and professional presentation design.
 
----
-
-## 🎯 Objectives
-
-- Deliver a comprehensive, evidence-based strategic profile of Amazon across retail, cloud, advertising, and AI.
-- Quantify **where Amazon makes its money vs. where it makes its profit** — the central tension between segment revenue share and operating-income contribution.
-- Evaluate Amazon's **2025–2026 AI pivot**: the Alexa for Shopping / Rufus unification, custom AI silicon (Trainium/Inferentia), and Amazon Bedrock.
-- Assess **operational and reputational trade-offs**, including a ~30,000-role corporate restructuring and a 16% jump in 2025 carbon emissions tied to AI data-center growth.
-- Benchmark Amazon against its principal competitors across five distinct competitive arenas (retail, cloud, advertising, AI assistants, logistics).
-- Produce original strategic synthesis — a SWOT analysis, a risk matrix, and five analyst recommendations — grounded entirely in the cited evidence base.
-- Package the work as a clean, recruiter-ready GitHub repository demonstrating research rigor, business-analysis structure, and technical documentation skills.
+> **Disclaimer:** This project is an independent academic analysis created for educational purposes. It is not affiliated with, endorsed by, or produced on behalf of Amazon.com, Inc.
 
 ---
 
-## 🧩 Key Topics Covered
+# ✨ Features
 
-| Category | Topics |
-|---|---|
-| **Corporate Profile** | Founding, leadership, milestones (1994–2026), market position |
-| **Business Model** | Three-segment structure (North America / International / AWS), 1P vs. 3P retail |
-| **Financial Performance** | FY2022–FY2025 net sales & net income trend, Q4 2025 highlights, segment economics |
-| **Cloud Infrastructure** | AWS revenue, service portfolio, global cloud market share, growth-rate gap vs. Azure/Google Cloud |
-| **Artificial Intelligence** | Trainium/Inferentia silicon, Amazon Bedrock, Alexa for Shopping (May 2026 launch) |
-| **Advertising** | The "third pillar" business, DSP, AI-referral traffic trends |
-| **Logistics & Operations** | Fulfillment network footprint, robotics automation, Prime Air, EV delivery fleet |
-| **Customer Experience** | Prime membership, Alexa+ auto-enrollment, AI shopping personalization |
-| **Human Capital** | Workforce size and structure, 2025–2026 restructuring, revenue per employee |
-| **Sustainability** | The Climate Pledge, renewable-energy matching, 2025 emissions increase |
-| **Competitive Landscape** | Segment-by-segment competitor benchmarking |
-| **Strategic Synthesis** | SWOT analysis, risks & regulatory environment, growth opportunities, recommendations |
+- 📊 Comprehensive strategic business analysis
+- 📈 Financial performance evaluation
+- ☁️ Amazon Web Services (AWS) analysis
+- 🤖 Artificial Intelligence strategy assessment
+- 📦 Logistics and supply chain analysis
+- 🌍 Sustainability and ESG initiatives
+- 📉 SWOT analysis
+- 🏆 Competitive landscape evaluation
+- 📚 Verified academic and industry references
+- 📄 Professionally designed presentation
+- 🖼️ Supporting diagrams, screenshots, and visual assets
 
 ---
 
-## 🛠️ Technologies & Tools Used
+# 🖥️ Presentation Overview
 
-**Research & Analysis**
-- Primary-source verification via SEC EDGAR (10-K, 8-K filings)
-- Cross-referenced market data (Synergy Research Group, Statista)
-- APA 7th-edition academic citation standards
+The presentation provides a complete analysis of Amazon through multiple business and technological perspectives.
 
-**Presentation Production**
-- Microsoft PowerPoint (`.pptx`) — 30-slide deck with native charts and iconography
-- PDF export for universal, layout-preserving distribution
+### Main Topics
 
-**Documentation & Repository**
-- Markdown (GitHub-flavored) for all written documentation
-- Python (`reportlab`, `matplotlib`) for the APA bibliography PDF and the original data visualization
-- Hand-authored SVG for original diagrams and icon set
-- Git / GitHub for version control and portfolio hosting
+- Company Overview
+- History & Major Milestones
+- Leadership
+- Business Model
+- Revenue Streams
+- Financial Performance
+- Amazon Marketplace
+- Amazon Prime
+- Amazon Web Services (AWS)
+- Artificial Intelligence
+- Robotics & Automation
+- Logistics & Supply Chain
+- Sustainability
+- Competitive Landscape
+- SWOT Analysis
+- Risks & Challenges
+- Future Opportunities
+- Strategic Recommendations
+- Conclusion
 
----
-
-## 🖥️ Presentation Overview
-
-**`presentation/Amazon_Research_Presentation.pdf`** — a high-fidelity, 30-slide PDF export of the original PowerPoint deck, preserving all layouts, native charts, icons, and typography.
-
-The deck is organized into four narrative arcs:
-
-1. **Foundations (Slides 1–9)** — Executive summary, corporate profile, history, business model, and multi-year financial performance.
-2. **Core Businesses (Slides 10–19)** — Retail segments, the third-party marketplace, AWS, cloud market share, AI strategy, advertising, logistics, fulfillment automation, Prime, and workforce.
-3. **Sustainability & Competitive Position (Slides 20–25)** — Climate Pledge commitments, emissions performance, competitive landscape, SWOT, risks, and the regulatory environment.
-4. **Strategic Outlook (Slides 26–30)** — Future growth opportunities, analyst recommendations, conclusion, sources, and closing.
-
-Every slide's speaker notes carry its underlying source attribution; the full citation list is consolidated in [`references/sources.md`](./references/sources.md).
-
----
-
-## 🎓 Learning Outcomes
-
-Working through this project builds and demonstrates:
-
-- **Financial statement literacy** — reading segment reporting, operating income bridges, and quality-of-earnings adjustments (e.g., non-operating equity gains inflating headline net income growth).
-- **Market-structure analysis** — interpreting cloud market-share data from multiple secondary sources that disagree slightly, and presenting it responsibly as a range rather than a false-precision figure.
-- **Strategic frameworks in practice** — building a SWOT analysis and risk matrix that is *actually* traceable to the preceding evidence rather than generic template language.
-- **Research integrity** — distinguishing primary disclosures (SEC filings, company statements) from secondary aggregation, and flagging where a widely cited statistic could not be verified against Amazon's own filings.
-- **Technical documentation & portfolio packaging** — structuring a multi-asset research project (slides, PDF, bibliography, diagrams, icons) as a clean, navigable, recruiter-ready GitHub repository.
-
----
-
-## 📁 Repository Structure
+The complete presentation is available in:
 
 ```text
-amazon-company-analysis/
-│
-├── README.md                              # You are here
-├── LICENSE                                 # MIT license (original written/visual work)
-│
-├── presentation/
-│   └── Amazon_Research_Presentation.pdf    # Full 30-slide deck, PDF export
-│
-├── assets/
-│   ├── images/                             # Original diagrams (not in the deck)
-│   │   ├── amazon-growth-flywheel.svg
-│   │   └── revenue-vs-profit-contribution.png
-│   ├── icons/                              # Original SVG icon set for documentation
-│   │   ├── aws-cloud.svg
-│   │   ├── ecommerce.svg
-│   │   ├── ai-strategy.svg
-│   │   ├── sustainability.svg
-│   │   ├── analysis.svg
-│   │   └── references.svg
-│   └── screenshots/                        # High-res PNG exports of key slides
-│       ├── 01-cover.png
-│       ├── 02-amazon-overview.png
-│       ├── 03-business-model.png
-│       ├── 04-revenue-streams.png
-│       ├── 05-aws-cloud-infrastructure.png
-│       ├── 06-supply-chain-logistics.png
-│       ├── 07-fulfillment-innovation.png
-│       ├── 08-sustainability-strategy.png
-│       ├── 09-swot-analysis.png
-│       ├── 10-financial-performance.png
-│       ├── 11-future-outlook.png
-│       └── 12-conclusion.png
-│
-└── references/
-    ├── bibliography.pdf                    # APA 7th-edition bibliography
-    └── sources.md                          # Categorized source list with verification notes
+presentation/
+└── Amazon_Research_Presentation.pdf
 ```
 
 ---
 
-## 🖼️ Preview
+# 📸 Presentation Preview
 
-<table>
-<tr>
-<td width="50%"><img src="./assets/screenshots/01-cover.png" alt="Cover slide" width="100%"></td>
-<td width="50%"><img src="./assets/screenshots/02-amazon-overview.png" alt="Amazon corporate overview slide" width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="./assets/screenshots/05-aws-cloud-infrastructure.png" alt="AWS cloud infrastructure slide" width="100%"></td>
-<td width="50%"><img src="./assets/screenshots/09-swot-analysis.png" alt="SWOT analysis slide" width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="./assets/screenshots/10-financial-performance.png" alt="Financial performance slide" width="100%"></td>
-<td width="50%"><img src="./assets/screenshots/12-conclusion.png" alt="Conclusion slide" width="100%"></td>
-</tr>
-</table>
+## Cover
 
-**Original diagram — Revenue Share vs. Profit Contribution (FY2025):**
-
-<img src="./assets/images/revenue-vs-profit-contribution.png" alt="Revenue vs profit contribution by segment" width="70%">
-
-**Original diagram — Amazon's Growth Flywheel:**
-
-<img src="./assets/images/amazon-growth-flywheel.svg" alt="Amazon growth flywheel diagram" width="70%">
-
-*See the full 30-slide deck in [`presentation/Amazon_Research_Presentation.pdf`](./presentation/Amazon_Research_Presentation.pdf) and every slide screenshot in [`assets/screenshots/`](./assets/screenshots/).*
+<img src="./assets/screenshots/01-cover.png" width="900">
 
 ---
 
-## 👤 Author
+## Business Model
+
+<img src="./assets/screenshots/03-business-model.png" width="900">
+
+---
+
+## AWS Cloud Infrastructure
+
+<img src="./assets/screenshots/05-aws-cloud-infrastructure.png" width="900">
+
+---
+
+## Financial Performance
+
+<img src="./assets/screenshots/10-financial-performance.png" width="900">
+
+---
+
+## SWOT Analysis
+
+<img src="./assets/screenshots/09-swot-analysis.png" width="900">
+
+---
+
+## Conclusion
+
+<img src="./assets/screenshots/12-conclusion.png" width="900">
+
+---
+
+# 🛠️ Technologies & Tools
+
+## Research
+
+- Amazon Annual Reports
+- Amazon Investor Relations
+- SEC EDGAR
+- AWS Documentation
+- Statista
+- Synergy Research Group
+- Gartner
+- Harvard Business Review
+- McKinsey & Company
+- Reuters
+- APA 7th Edition Citation
+
+## Presentation
+
+- Microsoft PowerPoint
+- PDF Export
+
+## Documentation
+
+- Markdown
+- Git
+- GitHub
+
+---
+
+# 📁 Repository Structure
+
+```text
+amazon-company-analysis/
+│
+├── README.md
+├── LICENSE
+│
+├── presentation/
+│   └── Amazon_Research_Presentation.pdf
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── screenshots/
+│
+└── references/
+    ├── bibliography.pdf
+    └── sources.md
+```
+
+---
+
+# 🚀 How to Use
+
+1. Open the presentation located in:
+
+```text
+presentation/
+```
+
+2. Browse the presentation preview images inside:
+
+```text
+assets/screenshots/
+```
+
+3. Explore supporting visual assets located in:
+
+```text
+assets/images/
+assets/icons/
+```
+
+4. Review the bibliography and source list inside:
+
+```text
+references/
+```
+
+---
+
+# 🎓 Learning Outcomes
+
+This project demonstrates practical skills in:
+
+- Business Strategy Analysis
+- Financial Statement Interpretation
+- Corporate Research
+- Market Analysis
+- Artificial Intelligence Research
+- Cloud Computing Fundamentals
+- Supply Chain Analysis
+- SWOT Analysis
+- Academic Research Methodology
+- Professional Presentation Design
+- Technical Documentation
+- GitHub Portfolio Development
+
+---
+
+# 📚 References
+
+This research is based on reliable and authoritative sources, including:
+
+- Amazon Annual Reports
+- Amazon Investor Relations
+- U.S. Securities and Exchange Commission (SEC)
+- AWS Documentation
+- Statista
+- Gartner
+- McKinsey & Company
+- Harvard Business Review
+- Reuters
+- Bloomberg
+- Forbes
+- CNBC
+- World Economic Forum
+
+The complete bibliography is available in:
+
+- 📄 `references/sources.md`
+- 📑 `references/bibliography.pdf`
+
+---
+
+# 👨‍💻 Author
 
 **MEGHARI Abderrahmane Tarek**
-Bachelor Informatique student (AI & Data Science specialization) — ECE Paris
-Based in the Île-de-France region, France
 
-Interested in web development, data science, and cybersecurity — and open to internship opportunities in these areas. Feel free to connect for feedback, collaboration, or opportunities.
+AI & Computer Science Student
+
+**GitHub**
+
+https://github.com/tarek200614
 
 ---
 
-## 📚 References
+# 📄 License
 
-This project's every statistic is traceable to a verified source. The full bibliography, grouped by category (official Amazon sources, SEC filings, annual reports, AWS documentation, academic papers, books, industry reports, statistics, and news), is available in two formats:
+This repository is intended for **educational, academic, and portfolio purposes**.
 
-- 📄 [`references/sources.md`](./references/sources.md) — categorized Markdown source list with verification notes
-- 📑 [`references/bibliography.pdf`](./references/bibliography.pdf) — formatted APA 7th-edition bibliography
+Amazon®, AWS®, Prime®, Alexa®, and all related trademarks are the property of **Amazon.com, Inc.**
+
+This project is an independent academic work and is **not affiliated with or endorsed by Amazon.com, Inc.**
 
 ---
 
 <div align="center">
 
-*This is an independently produced academic/portfolio analysis. Amazon, AWS, and related marks are trademarks of Amazon.com, Inc. This project is not affiliated with or endorsed by Amazon.*
-
-**⭐ If you found this project useful for learning business analysis or portfolio structuring, consider starring the repo.**
+⭐ **If you found this repository useful, consider giving it a star!**
 
 </div>
-
