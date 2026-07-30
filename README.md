@@ -1,41 +1,89 @@
-# 📊 Amazon Research Presentation
+# 📦 Amazon Company Analysis
 
 ## 📖 Overview
 
-This repository contains a comprehensive research presentation about **Amazon**, covering its history, business model, technologies, logistics, cloud computing, artificial intelligence, sustainability initiatives, financial performance, competitive landscape, SWOT analysis, challenges, and future outlook.
+This repository contains a comprehensive academic analysis of **Amazon**, one of the world's largest technology and e-commerce companies.
 
-The project was created as an academic research presentation and is continuously improved with additional data, modern visual design, professional infographics, and reliable references.
+The project presents an in-depth study of Amazon's history, business model, financial performance, technological innovations, logistics network, cloud computing services (AWS), artificial intelligence, sustainability initiatives, competitive environment, SWOT analysis, challenges, and future opportunities.
+
+The research was prepared as an educational presentation using reliable sources and professionally organized for academic and portfolio purposes.
 
 ---
 
-## ✨ Contents
-
-The presentation includes research on:
+## ✨ Topics Covered
 
 - Company Overview
-- Amazon History & Timeline
-- Founder (Jeff Bezos)
+- History & Evolution
+- Jeff Bezos and Leadership
 - Business Model
 - Revenue Streams
 - Amazon Marketplace
 - Amazon Prime
 - Amazon Web Services (AWS)
-- Artificial Intelligence
-- Robotics & Automation
+- Artificial Intelligence & Machine Learning
+- Robotics & Warehouse Automation
 - Logistics & Supply Chain
-- Sustainability Initiatives
 - Financial Performance
-- Global Presence
-- Competitors
+- Sustainability & ESG
+- Global Expansion
+- Competitive Landscape
 - SWOT Analysis
 - Challenges & Risks
-- Future Opportunities
-- Key Takeaways
-- References
+- Future Outlook
+- Conclusion
 
 ---
 
-## 📂 Repository Structure
+# 📸 Presentation Preview
+
+## Cover Slide
+
+![Cover](assets/screenshots/cover.png)
+
+---
+
+## Business Model
+
+![Business Model](assets/screenshots/business-model.png)
+
+---
+
+## AWS & Artificial Intelligence
+
+![AWS](assets/screenshots/aws.png)
+
+---
+
+## Financial Analysis
+
+![Financial Analysis](assets/screenshots/financial-analysis.png)
+
+---
+
+## SWOT Analysis
+
+![SWOT](assets/screenshots/swot-analysis.png)
+
+---
+
+## Conclusion
+
+![Conclusion](assets/screenshots/conclusion.png)
+
+---
+
+# 📄 Project Presentation
+
+The complete presentation is available in:
+
+```
+presentation/
+└── Amazon_Research_Presentation.pdf
+```
+
+---
+
+# 📁 Repository Structure
 
 ```text
 amazon-company-analysis/
@@ -58,18 +106,7 @@ amazon-company-analysis/
 
 ---
 
-## 🎯 Objectives
-
-- Research one of the world's largest technology companies.
-- Explain Amazon's business ecosystem.
-- Analyze financial growth and market position.
-- Present reliable statistics using trusted sources.
-- Demonstrate professional presentation design.
-- Improve public speaking and research skills.
-
----
-
-## 🛠️ Tools Used
+# 🛠️ Technologies & Tools
 
 - Microsoft PowerPoint
 - Microsoft Excel
@@ -79,25 +116,9 @@ amazon-company-analysis/
 
 ---
 
-## 📈 Research Topics
+# 📚 References
 
-- Company Background
-- E-commerce Platform
-- Cloud Computing (AWS)
-- Artificial Intelligence
-- Supply Chain Management
-- Digital Advertising
-- Sustainability
-- Financial Analysis
-- Competitive Analysis
-- SWOT Analysis
-- Future Trends
-
----
-
-## 📚 References
-
-This project uses information from reputable sources including:
+This research is based on reputable sources, including:
 
 - Amazon Annual Reports
 - Amazon Investor Relations
@@ -107,54 +128,26 @@ This project uses information from reputable sources including:
 - Forbes
 - Bloomberg
 - CNBC
+- Harvard Business Review
 - McKinsey & Company
 - World Economic Forum
-- OECD
-- Harvard Business Review
-- IEEE
-- ACM Digital Library
 
-All statistics, charts, and statements should be supported by cited sources.
+The complete bibliography and source list are available in the **references/** folder.
 
 ---
 
-## 📸 Screenshots
+# 🎯 Learning Objectives
 
-Screenshots of the presentation can be found inside:
-
-```text
-assets/screenshots/
-```
-
-Examples:
-
-- Cover Slide
-- Company Overview
-- Business Model
-- AWS
-- AI & Robotics
-- Financial Analysis
-- SWOT Analysis
-- Conclusion
+- Analyze Amazon's global business strategy.
+- Understand Amazon's diversified business ecosystem.
+- Evaluate the company's financial performance.
+- Explore the impact of AWS and Artificial Intelligence.
+- Assess Amazon's competitive advantages and challenges.
+- Practice professional research and presentation skills.
 
 ---
 
-## 📄 Documentation
-
-Additional documentation is available inside the **docs/** directory, including:
-
-- Speaker notes
-- Research notes
-- Timeline
-- Statistics
-- SWOT analysis
-- Glossary
-- Design guidelines
-- Bibliography
-
----
-
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **MEGHARI Abderrahmane Tarek**
 
@@ -165,6 +158,6 @@ https://github.com/tarek200614
 
 ---
 
-## 📄 License
+# 📄 License
 
-This repository is intended for educational and research purposes.
+This repository is intended for **educational and research purposes**. All trademarks, logos, and copyrighted materials belong to their respective owners. External sources are properly credited in the **references/** directory.
