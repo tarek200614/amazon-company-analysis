@@ -151,20 +151,40 @@ presentation/
 ```text
 amazon-company-analysis/
 │
-├── README.md
-├── LICENSE
+├── README.md                              # You are here
+├── LICENSE                                 # MIT license (original written/visual work)
 │
 ├── presentation/
-│   └── Amazon_Research_Presentation.pdf
+│   └── Amazon_Research_Presentation.pdf    # Full 30-slide deck, PDF export
 │
 ├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── screenshots/
+│   ├── images/                             # Original diagrams (not in the deck)
+│   │   ├── amazon-growth-flywheel.svg
+│   │   └── revenue-vs-profit-contribution.png
+│   ├── icons/                              # Original SVG icon set for documentation
+│   │   ├── aws-cloud.svg
+│   │   ├── ecommerce.svg
+│   │   ├── ai-strategy.svg
+│   │   ├── sustainability.svg
+│   │   ├── analysis.svg
+│   │   └── references.svg
+│   └── screenshots/                        # High-res PNG exports of key slides
+│       ├── 01-cover.png
+│       ├── 02-amazon-overview.png
+│       ├── 03-business-model.png
+│       ├── 04-revenue-streams.png
+│       ├── 05-aws-cloud-infrastructure.png
+│       ├── 06-supply-chain-logistics.png
+│       ├── 07-fulfillment-innovation.png
+│       ├── 08-sustainability-strategy.png
+│       ├── 09-swot-analysis.png
+│       ├── 10-financial-performance.png
+│       ├── 11-future-outlook.png
+│       └── 12-conclusion.png
 │
 └── references/
-    ├── bibliography.pdf
-    └── sources.md
+    ├── bibliography.pdf                    # APA 7th-edition bibliography
+    └── sources.md                          # Categorized source list with verification notes
 ```
 
 ---
