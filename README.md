@@ -38,38 +38,22 @@ The presentation includes research on:
 ## 📂 Repository Structure
 
 ```text
-amazon-research-presentation/
+amazon-company-analysis/
+│
+├── README.md
+├── LICENSE
 │
 ├── presentation/
-│   └── Amazon_Research_Presentation.pptx
-│
-├── docs/
-│   ├── presentation-outline.md
-│   ├── speaker-notes.md
-│   ├── bibliography.md
-│   ├── image-sources.md
-│   ├── statistics.md
-│   ├── timeline.md
-│   ├── swot-analysis.md
-│   ├── glossary.md
-│   ├── design-guidelines.md
-│   └── research-notes.md
+│   └── Amazon_Research_Presentation.pdf
 │
 ├── assets/
-│   ├── logo/
-│   ├── icons/
 │   ├── images/
-│   ├── charts/
-│   ├── infographics/
+│   ├── icons/
 │   └── screenshots/
 │
 ├── references/
-│   ├── reports/
-│   ├── papers/
-│   └── websites.md
-│
-├── LICENSE
-└── README.md
+│   ├── bibliography.pdf
+│   └── sources.md
 ```
 
 ---
