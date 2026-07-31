@@ -90,31 +90,36 @@ presentation/
 
 ## Business Model
 
-<img src="./assets/screenshots/03-business-model.png" width="900">
+<img width="2667" height="1500" alt="03-business-model" src="https://github.com/user-attachments/assets/f9c3f177-eadf-4de7-ad3a-2bb94f760dac" />
+
 
 ---
 
 ## AWS Cloud Infrastructure
 
-<img src="./assets/screenshots/05-aws-cloud-infrastructure.png" width="900">
+<img width="2667" height="1500" alt="05-aws-cloud-infrastructure" src="https://github.com/user-attachments/assets/75acd8b0-c8b4-4b01-b083-2b4fb50636df" />
+
 
 ---
 
 ## Financial Performance
 
-<img src="./assets/screenshots/10-financial-performance.png" width="900">
+<img width="2667" height="1500" alt="10-financial-performance" src="https://github.com/user-attachments/assets/b3afa994-dd87-4daf-9813-170190cd0900" />
+
 
 ---
 
 ## SWOT Analysis
 
-<img src="./assets/screenshots/09-swot-analysis.png" width="900">
+<img width="2667" height="1500" alt="09-swot-analysis" src="https://github.com/user-attachments/assets/4c06a8a7-3b75-4e6e-af53-401ece2a6784" />
+
 
 ---
 
 ## Conclusion
 
-<img src="./assets/screenshots/12-conclusion.png" width="900">
+<img width="2667" height="1500" alt="12-conclusion" src="https://github.com/user-attachments/assets/0c0333de-1ce9-4b9c-b91a-7e0dba4c3606" />
+
 
 ---
 
