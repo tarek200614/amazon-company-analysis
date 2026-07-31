@@ -83,7 +83,8 @@ presentation/
 
 ## Cover
 
-<img src="./assets/screenshots/01-cover.png" width="900">
+<img width="2667" height="1500" alt="01-cover" src="https://github.com/user-attachments/assets/40225fb0-912b-4250-a7ff-53185dc1a2db" />
+
 
 ---
 
