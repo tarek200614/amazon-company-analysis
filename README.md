@@ -156,7 +156,6 @@ amazon-company-analysis/
 │
 ├── presentation/
 │   └── Amazon_Research_Presentation.pdf    # Full 30-slide deck, PDF export
-│   └── Amazon_Research_Presentation.pptx   # Full 30-slide with PowerPoint
 │
 ├── assets/
 │   ├── images/                             # Original diagrams (not in the deck)
